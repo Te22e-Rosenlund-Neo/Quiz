@@ -1,0 +1,14 @@
+C:\Users\neo.rosenlund\Documents\programmerings_uppgifter\frågesport\fragesport\bin\Debug\net7.0\fragesport.exe
+C:\Users\neo.rosenlund\Documents\programmerings_uppgifter\frågesport\fragesport\bin\Debug\net7.0\fragesport.deps.json
+C:\Users\neo.rosenlund\Documents\programmerings_uppgifter\frågesport\fragesport\bin\Debug\net7.0\fragesport.runtimeconfig.json
+C:\Users\neo.rosenlund\Documents\programmerings_uppgifter\frågesport\fragesport\bin\Debug\net7.0\fragesport.dll
+C:\Users\neo.rosenlund\Documents\programmerings_uppgifter\frågesport\fragesport\bin\Debug\net7.0\fragesport.pdb
+C:\Users\neo.rosenlund\Documents\programmerings_uppgifter\frågesport\fragesport\obj\Debug\net7.0\fragesport.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\neo.rosenlund\Documents\programmerings_uppgifter\frågesport\fragesport\obj\Debug\net7.0\fragesport.AssemblyInfoInputs.cache
+C:\Users\neo.rosenlund\Documents\programmerings_uppgifter\frågesport\fragesport\obj\Debug\net7.0\fragesport.AssemblyInfo.cs
+C:\Users\neo.rosenlund\Documents\programmerings_uppgifter\frågesport\fragesport\obj\Debug\net7.0\fragesport.csproj.CoreCompileInputs.cache
+C:\Users\neo.rosenlund\Documents\programmerings_uppgifter\frågesport\fragesport\obj\Debug\net7.0\fragesport.dll
+C:\Users\neo.rosenlund\Documents\programmerings_uppgifter\frågesport\fragesport\obj\Debug\net7.0\refint\fragesport.dll
+C:\Users\neo.rosenlund\Documents\programmerings_uppgifter\frågesport\fragesport\obj\Debug\net7.0\fragesport.pdb
+C:\Users\neo.rosenlund\Documents\programmerings_uppgifter\frågesport\fragesport\obj\Debug\net7.0\fragesport.genruntimeconfig.cache
+C:\Users\neo.rosenlund\Documents\programmerings_uppgifter\frågesport\fragesport\obj\Debug\net7.0\ref\fragesport.dll
